@@ -1,2 +1,2 @@
 # TOP-Library
-[![TOP-Library](https://github.com/TMacnaw/TOP-Library/blob/main/demo.png)](#features)
+[![TOP-Library](https://github.com/T-McKenney/TOP-Library/blob/main/Demo.png)](#features)
